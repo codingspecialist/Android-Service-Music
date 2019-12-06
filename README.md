@@ -1,6 +1,6 @@
 #### 나만의 안드로이드 뮤직 플레이어 만들기
 
-![blog](https://postfiles.pstatic.net/MjAxOTEyMDZfNDYg/MDAxNTc1NjM3MTgxNjMy.5_GPpjn7piZlEltbCWEfI7E_tsU5zJ4G4nhrq-U7xrAg.Jdr2_lQLrLtPfMzuTcLkX2M5ifBjwSb6y1oHpkWAqPog.JPEG.getinthere/Screenshot_66.jpg?type=w7733)
+![blog](https://postfiles.pstatic.net/MjAxOTEyMDZfNDYg/MDAxNTc1NjM3MTgxNjMy.5_GPpjn7piZlEltbCWEfI7E_tsU5zJ4G4nhrq-U7xrAg.Jdr2_lQLrLtPfMzuTcLkX2M5ifBjwSb6y1oHpkWAqPog.JPEG.getinthere/Screenshot_66.jpg?type=w773)
 
 #### 1. 사용 기술
 - 안드로이드 서비스 (bind)
